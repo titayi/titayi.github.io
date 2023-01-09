@@ -1,2 +1,1 @@
-# titayi.github.io
-My website
+The foundation is coming up
